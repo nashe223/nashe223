@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:Nash_93@icloud.com"><img src="https://img.shields.io/badge/Email-Nash_93@icloud.com-red?logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-Clement-blue?logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/tinashe-m-96991b57/"><img src="https://img.shields.io/badge/LinkedIn-Tinashe-blue?logo=linkedin" /></a>
   <a href="https://github.com/nashe223"><img src="https://img.shields.io/badge/GitHub-nashe223-black?logo=github" /></a>
 </p>
 
